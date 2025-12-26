@@ -4,8 +4,6 @@
 👨🏻‍💻 Frontend Developer
 </p>
 
----
-
 ## 🛠️ Tech Stack
 
 **Frontend:**  
@@ -20,8 +18,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-
----
 
 ## 🚀 Projects
 
@@ -53,5 +49,3 @@
 - [Clothica Shop](https://github.com/AndriiOshlakov/dream-frontend) – Next.js • Node.js  
   Co-developed 'Clothica', a responsive e-commerce MVP using Next.js 15, Zustand, and React Query. Implemented secure auth, product filtering, and a seamless checkout process within a large Agile team.
   Role: SignUp, LogIn pages, LogOut, Refresh Session and Route Handlers logic.
-
----

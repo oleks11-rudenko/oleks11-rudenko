@@ -55,5 +55,3 @@
   Role: SignUp, LogIn pages, LogOut, Refresh Session and Route Handlers logic.
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oleks11-rudenko&show_icons=true&theme=tokyonight)
